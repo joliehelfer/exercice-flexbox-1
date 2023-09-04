@@ -60,3 +60,9 @@ div.section .box {
   line-height: 50px;
   font-size: 40px;
 }
+
+div.section-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
